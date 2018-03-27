@@ -1,5 +1,6 @@
 package org.malar.dao;
 import java.util.List;
+/*DAOinterface*/
 
 import org.malar.entity.Account;
 import org.malar.exception.AccountNotFoundException;
